@@ -1,2 +1,2 @@
 # rootfs_mirror
-Base Rootfs Mirror For ReyaanshOS
+Base Rootfs And Package Mirror For ReyaanshOS
